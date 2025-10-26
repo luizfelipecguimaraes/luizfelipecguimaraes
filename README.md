@@ -1,18 +1,25 @@
 ## 🐍 Felipe Guimarães 
-
-📚 **Engenharia de Software @ UNDB** | **Cientista de Dados**  
-💡 Transformo dados em conhecimento e ideias em soluções inteligentes.
-
+📚 **Acadêmico do curso de Engenharia de Software - UNDB** | **Cientista de Dados**  
+📊 Foco em análise e ciência de dados
 
 ## 🛠️ Tecnologias & Ferramentas
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![Python
-](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-
+## 📊 Stats  
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizfelipecguimaraes&show_icons=true&theme=dark)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizfelipecguimaraes&layout=compact&theme=dark)
+
+## 📬 Contato
+- Email: luizfelipecguimaraes@gmail.com
+- LinkedIn: [linkedin.com/in/felipeguimaraes](https://www.linkedin.com/in/luiz-felipe-cerqueira-guimaraes)
+<p align="center">
+  <a href="mailto:luizfelipecguimaraes@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/luiz-felipe-cerqueira-guimaraes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
 
 <!--
 **luizfelipecguimaraes/luizfelipecguimaraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
