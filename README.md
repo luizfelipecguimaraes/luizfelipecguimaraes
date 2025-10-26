@@ -1,5 +1,5 @@
 ## 🐍 Felipe Guimarães 
-📚 **Acadêmico do curso de Engenharia de Software - UNDB**
+📚 **Acadêmico do curso de Engenharia de Software - UNDB**                 
 📊 Foco em análise e ciência de dados
 
 ## 🛠️ Tecnologias & Ferramentas
