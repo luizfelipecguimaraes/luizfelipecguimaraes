@@ -7,10 +7,6 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 📊 Statistics 
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizfelipecguimaraes&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizfelipecguimaraes&layout=compact&theme=dark)
-
 ## 📬 Contato
 - Email: luizfelipecguimaraes@gmail.com
 - LinkedIn: [linkedin.com/in/felipeguimaraes](https://www.linkedin.com/in/luiz-felipe-cerqueira-guimaraes)
