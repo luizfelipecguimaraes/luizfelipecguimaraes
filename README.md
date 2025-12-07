@@ -9,7 +9,7 @@
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="50" height="50" title="Power BI"/>
 </div>
 
-## 📬 Contato
+## 📬 Contact
 - Email: luizfelipecguimaraes@gmail.com
 - LinkedIn: [linkedin.com/in/felipeguimaraes](https://www.linkedin.com/in/luiz-felipe-cerqueira-guimaraes)
 <p align="center">
