@@ -6,7 +6,8 @@
 <div style="display: flex; gap: 30px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50" title="SQL"/>
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="50" height="50" title="Power BI"/>
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" width="50" height="50" title="Power BI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50" title="Figma"/>
 </div>
 
 ## 📬 Contact
