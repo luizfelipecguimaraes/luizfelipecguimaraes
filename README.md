@@ -3,12 +3,15 @@
 📊 Focus on data analysis and data science
 
 ## 🛠️ Technologies & Tools
-<div style="display: flex; gap: 30px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50" title="SQL"/>
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" width="50" height="50" title="Power BI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50" title="Figma"/>
-</div>
+<table border="0">
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="SQL"/></td>
+    <td><img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40" title="Power BI"/></td>
+    <td><img src="https://img.icons8.com/?size=100&id=kTTt25v6Drpd&format=png&color=000000" width="45" title="Power Automate"/></td>
+    <td><img src="https://img.icons8.com/?size=100&id=jXuZmZPUKCPS&format=png&color=000000" width="45" title="Power Apps"/></td>   
+  </tr>
+</table>
 
 ## 📬 Contact
 - Email: luizfelipecguimaraes@gmail.com
